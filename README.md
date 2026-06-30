@@ -130,25 +130,6 @@ The Hospital Management System is a robust desktop application designed to simpl
 - Select date range and report type
 - Export as PDF/Excel
 
----
-
-## 📸 Screenshots
-
-### Dashboard
-![Dashboard Placeholder](https://via.placeholder.com/800x600?text=Dashboard)
-
-### Patient Management
-![Patient Management Placeholder](https://via.placeholder.com/800x600?text=Patient+Management)
-
-### Doctor Schedules
-![Doctor Schedules Placeholder](https://via.placeholder.com/800x600?text=Doctor+Schedules)
-
-### Billing Module
-![Billing Module Placeholder](https://via.placeholder.com/800x600?text=Billing+Module)
-
-*Screenshots to be added after development completion*
-
----
 
 ## 🚀 Future Enhancements
 
