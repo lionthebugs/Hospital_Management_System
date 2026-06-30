@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="mysql-connector-java-8.0.28">
+    <archive path="K:/Java Project/mysql-connector-java-8.0.28.jar" />
+    <archive path="K:/Java Project/ResultSet2xml.jar" />
+  </library>
+</eclipse-userlibraries>
+
